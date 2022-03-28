@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I'm Sam - a software engineering student at RMU who is currently interning at [Innovu](https://www.innovu.com/).
+### I'm Sam - a software development engineer in Test at [Innovu](https://www.innovu.com/).
 
-### I'm currently learning the ember.js framework  and the Rust programming langauge for my internship and also plan on building projects on my own time with these technologies.
+### I'm currently learning the ember.js framework  and the Rust programming langauge and plan on building projects on my own time with these technologies.
 
 ### I have experience in: 
 - Software Languages: Python, JavaScript, Java, C++, SQL, CSS, HTML, Perl
