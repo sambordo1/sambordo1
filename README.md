@@ -2,11 +2,12 @@
 
 ### I'm Sam - a software development engineer in Test at [Innovu](https://www.innovu.com/).
 
-### I'm currently learning the ember.js framework  and the Rust programming langauge and plan on building projects on my own time with these technologies.
+### I'm currently experimenting with AWS services and have been using lambda, API Gateway, and DynamoDB to build serverless APIs.
+### I am also learning the ember.js framework and plan on building projects with it as well.
 
 ### I have experience in: 
 - Software Languages: Python, JavaScript, Java, C++, SQL, CSS, HTML, Perl
-- Software Experience: Linux, git, React, Ember, Docker
+- Software Experience: Linux, git, React, Ember, Docker, AWS
 
 ### Check out my [website](http://samuel-bordo.s3-website.us-east-2.amazonaws.com/) if you want to see some of my recent projects
 
