@@ -2,13 +2,15 @@
 
 ### I'm Sam - a software development engineer in Test at [Innovu](https://www.innovu.com/).
 
-### I'm currently experimenting with AWS services and have been using lambda, API Gateway, and DynamoDB to build serverless APIs.
-### I am also learning the ember.js framework and plan on building projects with it as well.
+🚀 SDET focused on ensuring software reliability while driving innovation through cloud technologies.
 
-### I have experience in: 
-- Software Languages: Python, JavaScript, Java, C++, SQL, CSS, HTML, Perl
-- Software Experience: Linux, git, React, Ember, Docker, AWS
+💼 Experience:
 
-### Check out my [website](http://samuel-bordo.s3-website.us-east-2.amazonaws.com/) if you want to see some of my recent projects
-
-### If you are looking for people to collaborate you can always [email](sambordo1@gmail.com) and let me know
+Cloud Architecture (Cloud-native technologies and deployment strategies)
+Automated Testing (Playwright, Cypress, Cucumber)
+Release Testing (Regression, Feature testing)
+Observability (Fluent Bit, Postgres, Grafana)
+Infrastructure as Code (Terraform, CloudFormation)
+Software Development (Ember.js frontend, Node.Js backend, Linux)
+Load Testing (Artillery.io, AWS Fargate)
+Scripting/Automation (Bash, Python)
